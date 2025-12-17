@@ -17,12 +17,6 @@ A simple line tracing car simulation built with HTML, CSS, and JavaScript.
 
 This project was developed using Google's Gemini 3 Pro for code generation and assistance.
 
-## Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-
 ## License
 
 MIT License
